@@ -1,2 +1,2 @@
 ## This diagrams explains the idea
-![N|Solid](https://github.com/damiancipolat/Bots-farm-platform/blob/master/doc/diagram.png?raw=true)
+![N|Solid](https://github.com/damiancipolat/AWS-scripts-gallery/blob/master/chatOps-slack/doc/diagram.png?raw=true)
