@@ -17,3 +17,7 @@ npm install
 npm run deploy
 ```
 
+### Test
+```sh
+You colud make a run test of the lambda metric-lambda.js to record values in the cloudwatch metric.
+```
