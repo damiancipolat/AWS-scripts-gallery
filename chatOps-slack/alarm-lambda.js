@@ -22,8 +22,8 @@ const snsMsgSchema = Joi.object({
   }))
 });
 
-const webHookUrl = 'https://hooks.slack.com/services/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';
-const arnSlack   = 'arn:aws:sns:us-west-2:302353397077:slack-topic';
+const webHookUrl = 'https://hooks.slack.com/services/XXXX/BE53P17QQ/oGLt6CqFgdYC5fYXLwLNvdI1';
+const arnSlack   = 'arn:aws:sns:us-west-2:XXXXX:slack-topic';
 
 //Push the topic in sms.
 const pushSNS = (msg,subj,arn)=>{
